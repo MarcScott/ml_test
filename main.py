@@ -31,7 +31,7 @@ def upload_file():
       return f'''
       <h1>{title}</h1>
       <img src="static/uploads/{f.filename}" width=500>
-      <p>T{details}</p>
+      <p>{details}</p>
       <img src={images[0]} width = 500>
       '''
 
