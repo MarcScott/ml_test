@@ -1,0 +1,7 @@
+Flask
+guizero[images]
+numpy==1.19.2
+Pillow
+pyttsx3
+tensorflow
+wikipedia
